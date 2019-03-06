@@ -1,7 +1,9 @@
 # numpyANN
-ANN from scratch with numpy
+ANN from scratch with numpy.
 
 Currently supports binary classification.
+
+Using this dataset: https://archive.ics.uci.edu/ml/datasets/banknote+authentication
 
 To add:
   - automatic support for sparse scipy arrays
