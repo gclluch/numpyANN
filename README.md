@@ -7,8 +7,8 @@ Using this dataset: https://archive.ics.uci.edu/ml/datasets/banknote+authenticat
 
 To add:
   - automatic support for sparse scipy arrays
-  - relu, leaky relu, softmax
+  - leaky relu, softmax
   - support for multi-class classification and regression
   - options for stochastic and batch gradient descent
-  - regularization 
+  - L1, L2, and dropout regularization 
   
