@@ -1,7 +1,7 @@
 # numpyANN
 ANN from scratch with numpy.
 
-Supports binary classification.
+Supports binary classification. Support for multi-class classification may be added in the future
 
 Using this dataset: https://archive.ics.uci.edu/ml/datasets/banknote+authentication
 
